@@ -30,7 +30,10 @@
     <Folder Include="Screenshots\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Screenshots\Breakline Proof.png" />
     <Content Include="Screenshots\Entering a Setter.png" />
+    <Content Include="Screenshots\Entering a Setter2.png" />
+    <Content Include="Screenshots\Step Over.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
