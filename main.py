@@ -10,6 +10,7 @@ def main():
 
     invalid_box = Rectangle(-4.0, 6.0)
 
+
     print()
     print("Invalid Length Rectangle")
     print(f"Length: {invalid_box.get_length()}")
