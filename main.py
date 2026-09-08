@@ -8,7 +8,6 @@ def main():
     print(f"Width: {box.get_width()}")
     print(f"Area: {box.get_area()}")
 
-
     invalid_box = Rectangle(-4.0, 6.0)
 
     print()
