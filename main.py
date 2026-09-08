@@ -12,6 +12,7 @@ def main():
 
     print()
     print("Invalid Length Rectangle")
+
     print(f"Length: {invalid_box.get_length()}")
     print(f"Width: {invalid_box.get_width()}")
     print(f"Area: {invalid_box.get_area()}")
